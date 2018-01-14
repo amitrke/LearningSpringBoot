@@ -1,5 +1,7 @@
 # Learning Spring Boot
 
+[![CircleCI](https://circleci.com/gh/amitrke/LearningSpringBoot.svg?style=svg)](https://circleci.com/gh/amitrke/LearningSpringBoot)
+
 ## Prerequisites 
 Java 8
 
